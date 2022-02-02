@@ -1,5 +1,5 @@
 <?php 
 
-echo "welcome to index"
+echo "welcome to index";
 exit;
 ?>
