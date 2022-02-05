@@ -1,5 +1,5 @@
 <?php 
 
-echo "welcome to automation....5";
+echo "welcome to automation....6";
 exit;
 ?>
